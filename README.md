@@ -4,7 +4,7 @@
 - 👀 I’m interested in data Science and Cyber Security
 - 🌱 I’m currently studying computer science at the High School of Technology in Fès, Morocco.
 
-### Coding Languages used :
+### Technologies used :
 ## Programming languages :
 `C`
 `C++`
@@ -12,9 +12,10 @@
 `Python`
 `Java`
 `JavaScript`
-## Web Frontend :
+## Web :
 `HTML`
 `CSS`
 `JavaScript`
-## Web Backend :
 `SQL`
+`React js`
+`Node js`
