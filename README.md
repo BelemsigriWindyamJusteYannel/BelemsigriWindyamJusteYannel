@@ -5,4 +5,9 @@
 - 🌱 I’m currently studying computer science at the High School of Technology in Fès, Morocco.
 
 Coding Languages used :
-<link rel="stylesheet" href="devicon.min.css">
+`C`
+`C++`
+`C#`
+`Python`
+`Java`
+`JavaScript`
